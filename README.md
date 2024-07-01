@@ -5,4 +5,4 @@
 Studying at EPITA.
 Doing some projects for fun.
 
-- 🌱 I’m currently learning React, Typescript, NodeJS
+- 🌱 I’m currently learning Typescript, REMIX 
