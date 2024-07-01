@@ -1,4 +1,4 @@
-# $${\color{blue}NeoLight}$$
+## NeoLight 🌊
 
 ![](https://github.com/thom-cr/thom-cr/blob/main/source.gif)
 
