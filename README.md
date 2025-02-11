@@ -9,7 +9,7 @@
 - 🔥 Node.js, React, C++, RootMe, Splunk's BOTS  
 
 💼 **Projects & Interests** :  
-- 🔒 Devlopment of a crossplatform FIM solution
+- 🔒 Development of a crossplatform FIM solution
 - 📱 Experimenting with Android Studio
 - 📨 Development of a secure messaging platform 
 - 🎮 Desktop, Web & mobile development   
