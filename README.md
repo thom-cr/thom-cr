@@ -2,7 +2,7 @@
 
 ![](https://github.com/thom-cr/thom-cr/blob/main/source.gif)
 
-# 👋 Hi, i'm Neo !  
+# 👋 Hi, i'm Thomas !  
 
 🌱 **Searching an internship from september 2025** :  
 - 🛡️ Cybersecurity student @ EPITA  
