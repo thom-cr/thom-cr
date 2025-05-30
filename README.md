@@ -1,5 +1,3 @@
-## NeoLight 🌊
-
 ![](https://github.com/thom-cr/thom-cr/blob/main/source.gif)
 
 # Bonjour, moi c'est Thomas
