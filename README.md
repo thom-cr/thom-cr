@@ -13,7 +13,7 @@
 - **Langages :** C++, C, JavaScript, TypeScript, Python, Java, Bash  
 - **Développement Web :** React, Next.js, Node.js, Remix  
 - **Sécurité :** Analyse de malwares, Pentest, Analyste SOC, Forensic  
-- **Réseaux :** Active Directory, VLAN, pare-feu, IDS/IPS, VPN, serveurs, sécurité des infrastructures  
+- **Réseaux :** Active Directory, VLAN, Pare-feu, IDS/IPS, VPN, Serveurs, Sécurité des infrastructures  
 
 ---
 
