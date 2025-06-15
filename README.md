@@ -1,5 +1,5 @@
 ![](https://github.com/thom-cr/thom-cr/blob/main/source.gif)
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackSunS3C.png)](https://tryhackme.com/p/BlackSunS3C)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackSunS3C.png")
 # Bonjour, moi c'est Thomas
 
 ## À la recherche d’une alternance à partir de septembre 2025
