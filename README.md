@@ -2,8 +2,6 @@
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackSunS3C.png)](https://tryhackme.com/p/BlackSunS3C)
 # Bonjour, moi c'est Thomas
 
-## À la recherche d’une alternance à partir de septembre 2025
-
 **Étudiant en cybersécurité à l’EPITA**, je suis passionné par l’informatique en général, et plus particulièrement par la cybersécurité défensive. En dehors de mes études, je pratique la course à pied et suis amateur de sports mécaniques, deux domaines qui reflètent mon goût pour le dépassement de soi et la rigueur.
 
 ---
